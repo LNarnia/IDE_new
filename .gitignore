@@ -173,3 +173,4 @@ dst-3.0_mathml_14_5_rating.csv
 *venv/
 pipeline_wine.pkl
 Skillfactory/final_project/data/data_real_property.csv
+data_cleaned.csv
