@@ -2,27 +2,27 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Описание-проекта)
+[1. Описание проекта](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Какой-кейс-решаем?)
 
-[3. Краткая информация о данных](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Результат)
+[5. Результат](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Результат)
 
 ### Описание проекта
 Агентство недвижимости столкнулось с проблемой — риелторы тратят слишком много времени на сортировку объявлений и поиск выгодных предложений. Поэтому скорость их реакции и качество анализа не дотягивают до уровня конкурентов. Это сказывается на финансовых показателях агентства.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Оглавление)
 
 ### Какой кейс решаем?
 Бизнес-задача: увеличить число сделок и прибыль агенства.
 
 Техническая задача: разработать модель машинного обучения, которая поможет обрабатывать объявления.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Оглавление)
 
 ### Краткая информация о данных
 
@@ -52,7 +52,7 @@
 Целевой признак:
 - 'target' — цена объекта недвижимости (целевой признак, который необходимо спрогнозировать)
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Оглавление)
 
 ### Этапы работы над проектом
 - Первичная обработка и очистка данных;
@@ -60,7 +60,7 @@
 - Построены несколько моделей и выбрана из них та, которая показывает наилучший результат по определенной метрике;
 - Подготовлен веб-сервис, который прогнозирует стоимость недвижимости по поступающим данным.
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Оглавление)
 
 ### Результат
 
@@ -78,8 +78,8 @@
 
 Разработан веб-сервис для прогноза стоимости недвижимости по заданным параметрам объекта.
 
-Итоговый ноутбук на GitHub [здесь](https://github.com/LNarnia/IDE_new/blob/main/Skillfactory/final_project/project.ipynb)
+Итоговый ноутбук на GitHub [здесь](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project/project.ipynb)
 
 
 
-:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/blob/Skillfactory/final_project#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Оглавление)
