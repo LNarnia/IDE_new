@@ -7,11 +7,6 @@ with open('models/model.pkl', 'rb') as pkl_file:
 
 app = Flask(__name__)
 
-@app.route('/')
-def index():
-    msg = "Тестовое сообщение. Сервер запущен!"
-    return msg
-
 @app.route('/predict', methods=['POST'])
 def predict():
     features = np.array(request.json)

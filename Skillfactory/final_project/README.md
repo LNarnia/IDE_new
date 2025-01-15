@@ -4,7 +4,7 @@
 
 [1. Описание проекта](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Краткая-информация-о-данных)
 
@@ -17,7 +17,7 @@
 
 :arrow_up: [к оглавлению](https://github.com/LNarnia/IDE_new/tree/main/Skillfactory/final_project#Оглавление)
 
-### Какой кейс решаем?
+### Какой кейс решаем
 Бизнес-задача: увеличить число сделок и прибыль агенства.
 
 Техническая задача: разработать модель машинного обучения, которая поможет обрабатывать объявления.
